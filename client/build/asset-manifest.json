@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb1a50fd.css",
+    "main.js": "/static/js/main.0ffbdfa7.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/RahulNain_Resume.pdf": "/static/media/RahulNain_Resume.ae2c98f8eb8306694677.pdf",
+    "static/media/ContactUs.jpg": "/static/media/ContactUs.24fcc236ce80c66cd50b.jpg",
+    "static/media/Profile Picture.jpg": "/static/media/Profile Picture.cdda2e554777528619a6.jpg",
+    "index.html": "/index.html",
+    "main.bb1a50fd.css.map": "/static/css/main.bb1a50fd.css.map",
+    "main.0ffbdfa7.js.map": "/static/js/main.0ffbdfa7.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb1a50fd.css",
+    "static/js/main.0ffbdfa7.js"
+  ]
+}
